@@ -43,9 +43,6 @@
 * 移动端
 ![移动端](./preview_3.png)
 
-## 在线实例
-我的博客 [https://skysun.name/](https://skysun.name/)
-
 ## 分支说明
 * 当前分支 (v2.0.0) 基于 [TypeScript](https://www.typescriptlang.org/) + [NuxtJS](https://nuxtjs.org/)
 * [v1.0.0](https://github.com/eshengsky/iBlog/tree/v1.0.0) 分支基于 JavaScript + [ExpressJS](https://expressjs.com/)
@@ -187,7 +184,7 @@ $ yarn run dockerRun
 ## 许可协议
 MIT License
 
-Copyright (c) 2020 Sky.Sun 吴海军
+Copyright (c) 2020 Sky.Sun SUN
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
